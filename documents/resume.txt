@@ -1,0 +1,4 @@
+My name is Ganji Nagendhra Prasad.
+I am a Junior AI/ML Engineer.
+I have experience in Machine Learning, NLP, and Generative AI.
+I have worked on ML pipelines, Flask APIs, and basic RAG concepts.
